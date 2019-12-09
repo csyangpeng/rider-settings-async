@@ -4,17 +4,17 @@
     <property name="created">2019-11-27T20:51:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-09T07:38:58</property>
+    <property name="modified">2019-12-09T19:51:11</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="SimSun" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
 </scheme>
