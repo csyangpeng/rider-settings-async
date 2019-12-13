@@ -13,8 +13,17 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191213000365671" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="SimHei" />
+    <option name="primaryFontFamily" value="Consolas" />
+    <option name="translator" value="fanyi.baidu" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5514f44dfc808a03" />
