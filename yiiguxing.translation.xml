@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotations" />
       <item value="Bash language support for the IntelliJ platform. Supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more. Do you like it? Give it a star at GitHub. Rate it at plugins.jetbrains.com." />
       <item value="Cloud Code helps you write, deploy, and debug cloud native, Kubernetes, and App Engine applications quickly and easily, and adds support for many Google Cloud Platform features. Create, update, and maintain Kubernetes resource files within IntelliJ. Build an accelerated feedback loop between your local machine and development cluster. Run Kubernetes wherever works best for you — whether in a local cluster or in the cloud. Plus, you don’t have to worry about scaling, so you can stay focused on your code. Use templates available with Cloud Code for IntelliJ to quickly define Kubernetes resource files. Deploy Java back ends for your cloud apps to App Engine. Use hosted Git repos on Google Cloud Platform with Cloud Code for IntelliJ to store source code with your deployed services. You can also use Stackdriver Debugger for real-time debugging of your cloud back end." />
       <item value="Highlights local object allocations, boxing, delegates and closure creations points." />
