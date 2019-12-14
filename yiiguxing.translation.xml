@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that the marked symbol is used implicitly (e.g. via reflection, in external library), so this symbol will not be reported as unused (as well as by other usage inspections)." />
       <item value="Valid Member Id" />
       <item value="Validate Member Id" />
       <item value="validate" />
