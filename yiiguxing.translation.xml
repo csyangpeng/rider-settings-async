@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is Available" />
       <item value="Indicates that the marked symbol is used implicitly (e.g. via reflection, in external library), so this symbol will not be reported as unused (as well as by other usage inspections)." />
       <item value="Valid Member Id" />
       <item value="Validate Member Id" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
