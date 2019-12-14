@@ -62,10 +62,10 @@
     <option name="tableQualification" value="Always" />
   </component>
   <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="TASK" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern case-sensitive="true" pattern="TASK" />
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
