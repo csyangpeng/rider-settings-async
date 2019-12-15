@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suggestion" />
       <item value="CSharp language support. very experimental state Right now only syntax support and grammar validation" />
       <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window." />
       <item value="Adds support for systemd unit files, including the following features: Syntax highlighting for unit files Auto-completion for: Option names in a section Boolean options Octal options Some other common options (KillMode=, Type=, Restart=) Inspections: Invalid values for boolean options Unknown option in section (ignoring those starting with X-) Deprecated options" />
