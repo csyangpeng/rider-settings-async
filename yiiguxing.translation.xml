@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incoming" />
+      <item value="inspection" />
       <item value="suggestion" />
       <item value="CSharp language support. very experimental state Right now only syntax support and grammar validation" />
       <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window." />
