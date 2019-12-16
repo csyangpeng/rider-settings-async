@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It was not possible to connect to the redis server(s). There was an authentication failure; check that passwords (or client certificates) are configured correctly. AuthenticationFailure (None, last-recv: 238) on localhost:6379/Interactive, Flushed/ComputeResult, last: ECHO, origin: SetResult, outstanding: 0, last-read: 0s ago, last-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 9 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.0.601.340" />
       <item value="incoming" />
       <item value="inspection" />
       <item value="suggestion" />
