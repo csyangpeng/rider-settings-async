@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="direct" />
+      <item value="compare" />
       <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
       <item value="shelve" />
       <item value="I Form File" />
@@ -49,8 +51,6 @@
       <item value="Should be formatted one of the followings" />
       <item value="Parse" />
       <item value="Is Available" />
-      <item value="Indicates that the marked symbol is used implicitly (e.g. via reflection, in external library), so this symbol will not be reported as unused (as well as by other usage inspections)." />
-      <item value="Valid Member Id" />
     </histories>
     <option name="languageScores">
       <map>
