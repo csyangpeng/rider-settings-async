@@ -2,7 +2,7 @@
   <component name="CodeLensSettings">
     <enabled>
       <map>
-        <entry key="VcsAuthorCodeLensProvider" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="true" />
       </map>
     </enabled>
   </component>
