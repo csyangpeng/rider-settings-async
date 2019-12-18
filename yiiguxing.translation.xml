@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="using redis cache for the WeixinSDK" />
+      <item value="Config using redis cache for the WeixinSDK" />
+      <item value="Config using redis cache for WeixinSDK" />
       <item value="Maximum" />
       <item value="certificate" />
       <item value="Initialize" />
@@ -48,9 +51,6 @@
       <item value="inspection" />
       <item value="suggestion" />
       <item value="CSharp language support. very experimental state Right now only syntax support and grammar validation" />
-      <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window." />
-      <item value="Adds support for systemd unit files, including the following features: Syntax highlighting for unit files Auto-completion for: Option names in a section Boolean options Octal options Some other common options (KillMode=, Type=, Restart=) Inspections: Invalid values for boolean options Unknown option in section (ignoring those starting with X-) Deprecated options" />
-      <item value="Git, SVN, Mercurial, and other VCS plugins provide the Annotate action that displays the last revision and user id for every line of the currently edited file, so you can easily see where this or that code came from. Sometimes this action takes a significant amount of time to run because the IDE has to load and process a lot of data from VCS. This plugin speeds this process up by preloading and caching the data required to run the Annotate action when you open a file. So if you're using the Annotate action often, the plugin is surely worth checking out." />
     </histories>
     <option name="languageScores">
       <map>
