@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps TUpdateInput to TEntity to update the entity. It uses IObjectMapper by default. It can be overrided for custom mapping." />
       <item value="Sequence contains more than one element" />
       <item value="Measure the pain you experience during development, and find out how variations in development technique, code design, and disruptions affect the pain you experience. Intended to be used with the IdeaFlowDX Profiler tools that help you categorize problems with simple #hashtags and add up the pain. MVP Release 6/1/2017" />
       <item value="A small tool to keep track of the Github repositories you have in your organization along with their pull requests, releases and more" />
@@ -50,7 +51,6 @@
       <item value="已处理" />
       <item value="获取给定id的成员信息,如果没有就创建一个具有默认值的" />
       <item value="It was not possible to connect to the redis server(s). There was an authentication failure; check that passwords (or client certificates) are configured correctly. AuthenticationFailure (None, last-recv: 238) on localhost:6379/Interactive, Flushed/ComputeResult, last: ECHO, origin: SetResult, outstanding: 0, last-read: 0s ago, last-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 9 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.0.601.340" />
-      <item value="incoming" />
     </histories>
     <option name="languageScores">
       <map>
