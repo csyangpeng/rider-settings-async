@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The child/dependent side could not be determined for the one-to-one relationship between 'AbroadApplicationForm.AuditedAbroad' and 'AuditedAbroad.ApplicationForm'. To identify the child/dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship configure them without specifying the inverse. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details." />
       <item value="No suitable constructor found for entity type 'AuditedAbroad'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'applicationForm' in 'AuditedAbroad(AbroadApplicationForm applicationForm)'." />
       <item value="Implicitly captured closure: yangpeng" />
       <item value="There are a lot of fixes in Unity support" />
@@ -50,12 +51,11 @@
       <item value="Summary" />
       <item value="Female" />
       <item value="state" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
