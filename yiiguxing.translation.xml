@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implicitly captured closure: yangpeng" />
       <item value="There are a lot of fixes in Unity support" />
       <item value="The bundled MSBuild version has been updated to support building .NET Core 3 projects." />
       <item value="Scrolling in a database table view/editor with many columns is now faster." />
@@ -50,7 +51,6 @@
       <item value="state" />
       <item value="status" />
       <item value="任务的状态" />
-      <item value="未通过" />
     </histories>
     <option name="languageScores">
       <map>
