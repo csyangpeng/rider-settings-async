@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempted to update or delete an entity that does not exist in the store." />
       <item value="Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances. Object name: 'OSDbContext'." />
       <item value="Class 'AbroadApplicationForm' has some virtual members but no inheritors" />
       <item value="The child/dependent side could not be determined for the one-to-one relationship between 'AbroadApplicationForm.AuditedAbroad' and 'AuditedAbroad.ApplicationForm'. To identify the child/dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship configure them without specifying the inverse. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details." />
@@ -50,12 +51,11 @@
       <item value="Global" />
       <item value="Pending" />
       <item value="Description" />
-      <item value="Summary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
