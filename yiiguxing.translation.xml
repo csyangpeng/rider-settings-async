@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No suitable constructor found for entity type 'AuditedAbroad'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'applicationForm' in 'AuditedAbroad(AbroadApplicationForm applicationForm)'." />
       <item value="Implicitly captured closure: yangpeng" />
       <item value="There are a lot of fixes in Unity support" />
       <item value="The bundled MSBuild version has been updated to support building .NET Core 3 projects." />
@@ -50,12 +51,11 @@
       <item value="Female" />
       <item value="state" />
       <item value="status" />
-      <item value="任务的状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
