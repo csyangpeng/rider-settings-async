@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
+      <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
+      <item value="The type 'Opinion' cannot be marked as owned because a non-owned entity type with the same name already exists." />
+      <item value="non-owned entity" />
       <item value="Represents a time interval." />
       <item value="Destination" />
       <item value="Guarantee Picture" />
@@ -47,15 +51,11 @@
       <item value="Initializes a new instance of the &lt;see cref=&quot;ReminderTodo&quot;/&gt; class." />
       <item value="Todo's state" />
       <item value="Initializes a new instance of the &lt;see cref=&quot;UpdateTodoStateEventData&quot;/&gt; class" />
-      <item value="direct" />
-      <item value="compare" />
-      <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
-      <item value="shelve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="71" />
       </map>
     </option>
   </component>
