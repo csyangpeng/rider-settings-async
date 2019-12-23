@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Should Assert Exception" />
       <item value="Missing type map configuration or unsupported mapping." />
       <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
       <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
@@ -50,12 +51,11 @@
       <item value="The user who owns the recovery code" />
       <item value="specified" />
       <item value=" initialization" />
-      <item value=" initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
