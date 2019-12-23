@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence contains no elements" />
       <item value="Obsolete" />
       <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
       <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
@@ -50,12 +51,11 @@
       <item value="entity" />
       <item value="提醒类型的任务" />
       <item value="Initializes a new instance of the &lt;see cref=&quot;ReminderTodo&quot;/&gt; class." />
-      <item value="Todo's state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
