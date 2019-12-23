@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
       <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
       <item value="The method uses the Array.Copy method to copy the elements." />
       <item value="Sequence contains no elements" />
@@ -50,12 +51,11 @@
       <item value=" initialization" />
       <item value=" initialize" />
       <item value="初始化" />
-      <item value="entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
