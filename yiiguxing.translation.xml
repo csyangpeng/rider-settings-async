@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
+      <item value="The method uses the Array.Copy method to copy the elements." />
       <item value="Sequence contains no elements" />
       <item value="Obsolete" />
       <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
@@ -49,13 +51,11 @@
       <item value=" initialize" />
       <item value="初始化" />
       <item value="entity" />
-      <item value="提醒类型的任务" />
-      <item value="Initializes a new instance of the &lt;see cref=&quot;ReminderTodo&quot;/&gt; class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
