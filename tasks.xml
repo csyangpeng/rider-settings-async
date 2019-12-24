@@ -4,13 +4,13 @@
   </component>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1577185944665" actual="374" highlighted="false" highlightingtype="Red" title="出入境审批" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1577185976966" actual="374" highlighted="true" highlightingtype="Red" title="申请人发出申请后触发事件" description="触发 CreateAuditedAbroadEventData">
+      <task priority="Normal" completed="true" estimated="0" created="1577185944665" actual="374" highlighted="false" highlightingtype="Red" title="出入境审批" description="">
+        <task priority="Normal" completed="true" estimated="0" created="1577185976966" actual="374" highlighted="true" highlightingtype="Red" title="申请人发出申请后触发事件" description="触发 CreateAuditedAbroadEventData">
           <task priority="Normal" completed="true" estimated="0" created="1577188316830" actual="0" highlighted="false" highlightingtype="Red" title="给申请人自己创建一条 reminer todo" description="" />
           <task priority="Normal" completed="true" estimated="0" created="1577186163617" actual="0" highlighted="false" highlightingtype="Red" title="给选择的部门领导创建一条 task todo" description="" />
           <task priority="Normal" completed="true" estimated="0" created="1577186182766" actual="374" highlighted="false" highlightingtype="Red" title="给选择的部门领导发送企业微信通知" description="" />
-          <task priority="Normal" completed="false" estimated="0" created="1577186225325" actual="0" highlighted="false" highlightingtype="Red" title="写入聚合根的 workflows" description="" />
-          <task priority="Normal" completed="false" estimated="0" created="1577186406358" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1577186225325" actual="0" highlighted="false" highlightingtype="Red" title="写入聚合根的 workflows" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1577186406358" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
         </task>
       </task>
     </tasks>
