@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expression 'x =&gt; x.ApplicationForm.CreationTime' must resolve to top-level member and not any child object's properties. You can use ForPath, a custom resolver on the child type or the AfterMap option instead. (Parameter 'lambdaExpression')" />
       <item value="Execute a mapping from the source object to the existing destination object" />
       <item value="Possible multiple enumeration" />
       <item value="Should Assert Exception" />
@@ -50,12 +51,11 @@
       <item value="Length" />
       <item value="Organization" />
       <item value="reduce the number of tools you use" />
-      <item value="The user who owns the recovery code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
