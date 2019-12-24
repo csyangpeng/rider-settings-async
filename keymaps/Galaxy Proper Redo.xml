@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ActivateTasksToolWindow">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
