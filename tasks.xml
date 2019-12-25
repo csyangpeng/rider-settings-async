@@ -55,7 +55,7 @@
           </task>
           <task priority="Normal" completed="false" estimated="0" created="1577253322394" actual="0" highlighted="false" highlightingtype="Red" title="Step3 纪检部门不通过" description="">
             <task priority="Normal" completed="false" estimated="0" created="1577253378012" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577253326536" actual="0" highlighted="false" highlightingtype="Red" title="写明原因(审批流程终止)" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577253326536" actual="0" highlighted="false" highlightingtype="Red" title="写明原因(审批流程终止)" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1577253354448" actual="0" highlighted="false" highlightingtype="Red" title="写日志,修改相关 todos 状态" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1577253364612" actual="0" highlighted="false" highlightingtype="Red" title="给申请人发送企业微信通知" description="" />
           </task>
