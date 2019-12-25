@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identifier expected" />
+      <item value="Sequence contains no elements" />
       <item value="Represents a time interval." />
       <item value="Process" />
       <item value="Step" />
@@ -13,7 +15,6 @@
       <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
       <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
       <item value="The method uses the Array.Copy method to copy the elements." />
-      <item value="Sequence contains no elements" />
       <item value="Obsolete" />
       <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
       <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
@@ -50,12 +51,11 @@
       <item value="Config using redis cache for WeixinSDK" />
       <item value="Maximum" />
       <item value="certificate" />
-      <item value="Initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>

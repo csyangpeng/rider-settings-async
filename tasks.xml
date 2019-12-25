@@ -13,11 +13,11 @@
           <task priority="Normal" completed="true" estimated="0" created="1577186406358" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
         </task>
         <task priority="Normal" completed="false" estimated="0" created="1577194789605" actual="0" highlighted="false" highlightingtype="Red" title="Next Event" description="- Step2 本单位一把手,审核不通过写明原因修改,通过后签字盖章且自动生成一个“单位申请表” &#13;&#10;- Step3 “出入境申请审核”纪检部门相关人员 不通过后写明原因修改。通过且牌照上传“廉政初审” &#13;&#10;- Step4 “出入境申请审核”的政治处人员 不通过写明原因修改，重新提交，重新提交后不需要再经过纪检部门。 &#13;&#10;- Step5 “政治处主任” 不通过写明原因，流转给具有“出入境申请审核”的政治处人员前台里  &#13;&#10;- Step6 “政委”，不通过写明原因，流转给具有“出入境申请审核”的政治处人员前台里 &#13;&#10;- Over!">
-          <task priority="Normal" completed="false" estimated="0" created="1577194809617" actual="0" highlighted="false" highlightingtype="Red" title="Step2-部门领导审批" description="">
+          <task priority="Normal" completed="true" estimated="0" created="1577194809617" actual="0" highlighted="false" highlightingtype="Red" title="Step2-部门领导审批" description="">
             <task priority="Normal" completed="true" estimated="0" created="1577198132258" actual="0" highlighted="false" highlightingtype="Red" title="生成单位申请表" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577198083415" actual="0" highlighted="false" highlightingtype="Red" title="给申请人发送企业微信通知" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577198093997" actual="0" highlighted="false" highlightingtype="Red" title="写 workflow" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577198213004" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577198083415" actual="0" highlighted="false" highlightingtype="Red" title="给申请人发送企业微信通知" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577198093997" actual="0" highlighted="false" highlightingtype="Red" title="写 workflow" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577198213004" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
           </task>
           <task priority="Normal" completed="false" estimated="0" created="1577194843892" actual="0" highlighted="false" highlightingtype="Red" title="Step3-纪检部门审批" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1577194896345" actual="0" highlighted="false" highlightingtype="Red" title="Step4-政治处相关人员审批" description="" />
