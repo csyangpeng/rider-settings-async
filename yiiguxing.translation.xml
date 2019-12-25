@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equence contains no elements" />
       <item value="Identifier expected" />
       <item value="Sequence contains no elements" />
       <item value="Represents a time interval." />
@@ -50,12 +51,11 @@
       <item value="Config using redis cache for the WeixinSDK" />
       <item value="Config using redis cache for WeixinSDK" />
       <item value="Maximum" />
-      <item value="certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="84" />
       </map>
     </option>
   </component>
