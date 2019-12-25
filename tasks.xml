@@ -40,8 +40,8 @@
             <task priority="Normal" completed="true" estimated="0" created="1577248134945" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
           </task>
           <task priority="Normal" completed="false" estimated="0" created="1577194926746" actual="0" highlighted="false" highlightingtype="Red" title="Step6-局领导审批" description="">
-            <task priority="Normal" completed="false" estimated="0" created="1577248157857" actual="0" highlighted="false" highlightingtype="Red" title="写日志" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577248168329" actual="0" highlighted="false" highlightingtype="Red" title="完成审核流程" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577248157857" actual="0" highlighted="false" highlightingtype="Red" title="写日志" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577248168329" actual="0" highlighted="false" highlightingtype="Red" title="完成审核流程" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1577248179839" actual="0" highlighted="false" highlightingtype="Red" title="给申请人发送企业微信通知" description="" />
           </task>
         </task>
