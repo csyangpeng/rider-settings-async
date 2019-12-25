@@ -48,8 +48,8 @@
         <task priority="Normal" completed="false" estimated="0" created="1577252345720" actual="0" highlighted="false" highlightingtype="Red" title="GoTo Events" description="">
           <task priority="Normal" completed="false" estimated="0" created="1577252437401" actual="0" highlighted="false" highlightingtype="Red" title="Step2 部门领导不通过" description="">
             <task priority="Normal" completed="false" estimated="0" created="1577253371323" actual="0" highlighted="false" highlightingtype="Red" title="单元测试" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577252492189" actual="0" highlighted="false" highlightingtype="Red" title="写明原因并驳回给申请人" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1577252573617" actual="0" highlighted="false" highlightingtype="Red" title="修改相关 todos 状态" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577252492189" actual="0" highlighted="false" highlightingtype="Red" title="写明原因并驳回给申请人" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1577252573617" actual="0" highlighted="false" highlightingtype="Red" title="修改相关 todos 状态" description="" />
             <task priority="Normal" completed="true" estimated="0" created="1577252445998" actual="0" highlighted="false" highlightingtype="Red" title="写日志" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1577252463909" actual="0" highlighted="false" highlightingtype="Red" title="给申请人发送企业微信通知" description="" />
           </task>
