@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents a time interval." />
       <item value="Process" />
       <item value="Step" />
       <item value="Content of collection 'Progress' is never updated" />
@@ -18,7 +19,6 @@
       <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
       <item value="The type 'Opinion' cannot be marked as owned because a non-owned entity type with the same name already exists." />
       <item value="non-owned entity" />
-      <item value="Represents a time interval." />
       <item value="Destination" />
       <item value="Guarantee Picture" />
       <item value="Guarantee Image" />
