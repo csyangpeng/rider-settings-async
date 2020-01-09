@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="This parameter is obsolete" />
+      <item value="Checks if permission dependency is satisfied." />
       <item value="This parameter is obsolete." />
+      <item value="This parameter is obsolete" />
       <item value="equence contains no elements" />
       <item value="Identifier expected" />
       <item value="Sequence contains no elements" />
@@ -50,12 +51,11 @@
       <item value="Measure the pain you experience during development, and find out how variations in development technique, code design, and disruptions affect the pain you experience. Intended to be used with the IdeaFlowDX Profiler tools that help you categorize problems with simple #hashtags and add up the pain. MVP Release 6/1/2017" />
       <item value="A small tool to keep track of the Github repositories you have in your organization along with their pull requests, releases and more" />
       <item value="using redis cache for the WeixinSDK" />
-      <item value="Config using redis cache for the WeixinSDK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
