@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This parameter is obsolete" />
+      <item value="This parameter is obsolete." />
       <item value="equence contains no elements" />
       <item value="Identifier expected" />
       <item value="Sequence contains no elements" />
@@ -49,8 +51,6 @@
       <item value="A small tool to keep track of the Github repositories you have in your organization along with their pull requests, releases and more" />
       <item value="using redis cache for the WeixinSDK" />
       <item value="Config using redis cache for the WeixinSDK" />
-      <item value="Config using redis cache for WeixinSDK" />
-      <item value="Maximum" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,6 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20191213000365671" />
-        <option name="appKeyConfigured" value="true" />
       </app-key>
     </option>
     <option name="foldOriginal" value="true" />
