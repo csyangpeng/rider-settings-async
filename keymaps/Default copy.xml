@@ -11,6 +11,9 @@
   <action id="ActivateTasksToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
