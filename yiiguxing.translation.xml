@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JSON standard does not allow comments. Use JSMin or similar tool to remove comments before parsing." />
       <item value="Checks if permission dependency is satisfied." />
       <item value="This parameter is obsolete." />
       <item value="This parameter is obsolete" />
@@ -50,7 +51,6 @@
       <item value="Sequence contains more than one element" />
       <item value="Measure the pain you experience during development, and find out how variations in development technique, code design, and disruptions affect the pain you experience. Intended to be used with the IdeaFlowDX Profiler tools that help you categorize problems with simple #hashtags and add up the pain. MVP Release 6/1/2017" />
       <item value="A small tool to keep track of the Github repositories you have in your organization along with their pull requests, releases and more" />
-      <item value="using redis cache for the WeixinSDK" />
     </histories>
     <option name="languageScores">
       <map>
