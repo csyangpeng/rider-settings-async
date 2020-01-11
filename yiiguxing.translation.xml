@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Component Galaxy.OS.Runtime.Session.ClaimAbpSessionExtensions could not be registered. There is already a component with that name. Did you want to modify the existing component instead? If not, make sure you specify a unique name." />
+      <item value="No component for supporting the service Galaxy.OS.Runtime.Session.IClaimAbpSessionExtensions was found" />
       <item value="Cannot access internal method 'GetMemberIdentifier' here" />
       <item value="Extension method can only be declared in non-generic, non-nested static class" />
       <item value="JSON standard does not allow comments. Use JSMin or similar tool to remove comments before parsing." />
@@ -49,13 +51,11 @@
       <item value="Enables user configurable language injection support (originally developed by Sascha Weinreuter sascha.weinreuter@cit.de) The following features are available" />
       <item value="Class 'Abp.Domain.Values.ValueObject' does not have type parameters" />
       <item value="Qualified Name" />
-      <item value="Maps TUpdateInput to TEntity to update the entity. It uses IObjectMapper by default. It can be overrided for custom mapping." />
-      <item value="Sequence contains more than one element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
