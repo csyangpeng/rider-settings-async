@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot access internal method 'GetMemberIdentifier' here" />
       <item value="Extension method can only be declared in non-generic, non-nested static class" />
       <item value="JSON standard does not allow comments. Use JSMin or similar tool to remove comments before parsing." />
       <item value="Checks if permission dependency is satisfied." />
@@ -50,7 +51,6 @@
       <item value="Qualified Name" />
       <item value="Maps TUpdateInput to TEntity to update the entity. It uses IObjectMapper by default. It can be overrided for custom mapping." />
       <item value="Sequence contains more than one element" />
-      <item value="Measure the pain you experience during development, and find out how variations in development technique, code design, and disruptions affect the pain you experience. Intended to be used with the IdeaFlowDX Profiler tools that help you categorize problems with simple #hashtags and add up the pain. MVP Release 6/1/2017" />
     </histories>
     <option name="languageScores">
       <map>
