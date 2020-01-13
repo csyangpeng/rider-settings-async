@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="Type" />
+      <item value="Answer" />
       <item value="Failed to compare two elements in the array." />
       <item value="Component Galaxy.OS.Runtime.Session.OSTestAbpSessionExtensions could not be registered. There is already a component with that name. Did you want to modify the existing component instead? If not, make sure you specify a unique name." />
       <item value="Cannot access non-static property 'PrincipalAccessor' in static context" />
@@ -48,14 +51,11 @@
       <item value="xport/Import settings works again." />
       <item value="Enabling Roslyn Analyzers in the solution does not hang code analysis anymore." />
       <item value="Add, Update, Change, and other actions work again in the NuGet tool window on Linux" />
-      <item value="dd, Update, Change, and other actions work again in the NuGet tool window on Linux The bundled MSBuild version has been updated to support building .NET Core 3 projects. There are a lot of fixes in Unity support. Enabling Roslyn Analyzers in the solution does not hang code analysis anymore. Export/Import settings works again. Scrolling in a database table view/editor with many columns is now faster." />
-      <item value="Instantly shows changes made to your code during a debugging session, making it unnecessary to reload web pages and Node.js files. By default, the Live Edit functionality is enabled for HTML and CSS files only. To turn it on for JavaScript, Node.js, and other file types, go to Settings/Preferences | Build, Execution, Deployment | Debugger | Live Edit. To start using Live Edit, open the HTML file you’re working with and select Debug in its context menu. This will launch the JavaScript debugger in WebStorm and open your file in the browser. As you edit the code, you’ll see the changes you make reflected in the browser." />
-      <item value="Language injection Pattern validation Regular expression support Language Injections page in the Settings/Preferences dialog. Ability to edit injected code in the special scratch-pad editor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
