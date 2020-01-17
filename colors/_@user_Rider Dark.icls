@@ -4,12 +4,12 @@
     <property name="created">2019-11-27T20:51:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-01-16T15:41:36</property>
+    <property name="modified">2020-01-17T09:10:27</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
+  <option name="LINE_SPACING" value="1.6" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -18,7 +18,7 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <console-font>
