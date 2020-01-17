@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An item with the same key has already been added. Key: 0" />
       <item value="principal" />
       <item value="Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances." />
       <item value="satisfied" />
@@ -50,12 +51,11 @@
       <item value="No suitable constructor found for entity type 'AuditedAbroad'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'applicationForm' in 'AuditedAbroad(AbroadApplicationForm applicationForm)'." />
       <item value="Implicitly captured closure: yangpeng" />
       <item value="There are a lot of fixes in Unity support" />
-      <item value="The bundled MSBuild version has been updated to support building .NET Core 3 projects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="98" />
       </map>
     </option>
   </component>
