@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances. Object" />
       <item value="Sequence contains no elements" />
       <item value="The property 'PersonalNo' on entity type 'Member' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key first delete the dependent and invoke 'SaveChanges' then associate the dependent with the new principal." />
       <item value="An item with the same key has already been added. Key: 0" />
@@ -50,12 +51,11 @@
       <item value="Class 'AbroadApplicationForm' has some virtual members but no inheritors" />
       <item value="The child/dependent side could not be determined for the one-to-one relationship between 'AbroadApplicationForm.AuditedAbroad' and 'AuditedAbroad.ApplicationForm'. To identify the child/dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship configure them without specifying the inverse. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details." />
       <item value="No suitable constructor found for entity type 'AuditedAbroad'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'applicationForm' in 'AuditedAbroad(AbroadApplicationForm applicationForm)'." />
-      <item value="Implicitly captured closure: yangpeng" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="104" />
       </map>
     </option>
   </component>
