@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence contains no elements" />
       <item value="The property 'PersonalNo' on entity type 'Member' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key first delete the dependent and invoke 'SaveChanges' then associate the dependent with the new principal." />
       <item value="An item with the same key has already been added. Key: 0" />
       <item value="principal" />
@@ -23,7 +24,6 @@
       <item value="This parameter is obsolete" />
       <item value="equence contains no elements" />
       <item value="Identifier expected" />
-      <item value="Sequence contains no elements" />
       <item value="Represents a time interval." />
       <item value="Process" />
       <item value="Step" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
