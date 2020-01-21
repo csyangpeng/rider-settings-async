@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence contains no elements" />
       <item value="The instance of entity type 'Member' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached" />
       <item value="synchronously" />
       <item value="Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances. Object" />
-      <item value="Sequence contains no elements" />
       <item value="The property 'PersonalNo' on entity type 'Member' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key first delete the dependent and invoke 'SaveChanges' then associate the dependent with the new principal." />
       <item value="An item with the same key has already been added. Key: 0" />
       <item value="principal" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
       </map>
     </option>
   </component>
