@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should not be null but was" />
       <item value="There is no current user!" />
       <item value="Sequence contains no elements" />
       <item value="The instance of entity type 'Member' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached" />
@@ -50,12 +51,11 @@
       <item value="Guarantee Image" />
       <item value="Guarantee" />
       <item value="Attempted to update or delete an entity that does not exist in the store." />
-      <item value="Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances. Object name: 'OSDbContext'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
       </map>
     </option>
   </component>
