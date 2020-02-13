@@ -4,7 +4,7 @@
   </component>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1578640320159" actual="0" highlighted="false" highlightingtype="Red" title="更新 member时需要更新User 的 Name" description="" />
+      <task priority="Normal" completed="true" estimated="0" created="1578640320159" actual="0" highlighted="false" highlightingtype="Red" title="更新 member时需要更新User 的 Name" description="" />
     </tasks>
   </component>
 </application>

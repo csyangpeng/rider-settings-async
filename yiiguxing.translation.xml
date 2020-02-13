@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Workspace associated with branch 'dev' has been restored" />
       <item value="destination" />
       <item value="ERROR 2020-02-03 14:44:03,642 [43 ] Mvc.ExceptionHandling.AbpExceptionFilter - The property 'ResultItems' on entity type 'Journal' is being accessed using the 'Reference' method, but is defined in the model as a collection navigation property. Use the 'Collection' method to access collection navigation properties." />
       <item value="should not be null but was" />
@@ -50,12 +51,11 @@
       <item value="non-owned entity" />
       <item value="Destination" />
       <item value="Guarantee Picture" />
-      <item value="Guarantee Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="111" />
       </map>
     </option>
   </component>
