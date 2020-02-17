@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used to get a IQueryable that is used to retrieve entities from entire table. One or more" />
+      <item value="one" />
+      <item value="/// This interface must be implemented by all repositories to identify them by convention. /// Implement generic version instead of this one." />
       <item value="Workspace associated with branch 'dev' has been restored" />
       <item value="destination" />
       <item value="ERROR 2020-02-03 14:44:03,642 [43 ] Mvc.ExceptionHandling.AbpExceptionFilter - The property 'ResultItems' on entity type 'Journal' is being accessed using the 'Reference' method, but is defined in the model as a collection navigation property. Use the 'Collection' method to access collection navigation properties." />
@@ -48,14 +51,11 @@
       <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
       <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
       <item value="The type 'Opinion' cannot be marked as owned because a non-owned entity type with the same name already exists." />
-      <item value="non-owned entity" />
-      <item value="Destination" />
-      <item value="Guarantee Picture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="113" />
       </map>
     </option>
   </component>
