@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/// &lt;summary&gt; /// Unique string used to identify the operation. The id MUST be unique among all operations described /// in the API. Tools and libraries MAY use the operationId to uniquely identify an operation, therefore, /// it is recommended to follow common programming naming conventions. /// &lt;/summary&gt;" />
       <item value="Grant Permission Async" />
       <item value="Used to get a IQueryable that is used to retrieve entities from entire table. One or more" />
       <item value="one" />
@@ -50,12 +51,11 @@
       <item value="The method uses the Array.Copy method to copy the elements." />
       <item value="Obsolete" />
       <item value="No suitable constructor found for entity type 'Opinions'. The following constructors had parameters that could not be bound to properties of the entity type: cannot bind 'tenantId', 'userId' in 'Opinions(Nullable&lt;int&gt; tenantId, long userId, string remark)'." />
-      <item value="cannot be marked as owned because a non-owned entity type with the same name already exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
