@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence contains no matching element" />
       <item value="Enables polymorphic schemas based on the presence of SwaggerSubTypeAttribute on base types" />
       <item value="/// &lt;summary&gt; /// Unique string used to identify the operation. The id MUST be unique among all operations described /// in the API. Tools and libraries MAY use the operationId to uniquely identify an operation, therefore, /// it is recommended to follow common programming naming conventions. /// &lt;/summary&gt;" />
       <item value="Grant Permission Async" />
@@ -50,12 +51,11 @@
       <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
       <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
       <item value="The method uses the Array.Copy method to copy the elements." />
-      <item value="Obsolete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="117" />
       </map>
     </option>
   </component>
