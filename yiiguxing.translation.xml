@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object reference not set to an instance of an object." />
       <item value="System.ObjectDisposedException: Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances." />
       <item value="Sequence contains no matching element" />
       <item value="Enables polymorphic schemas based on the presence of SwaggerSubTypeAttribute on base types" />
@@ -50,12 +51,11 @@
       <item value="Possible multiple enumeration" />
       <item value="Should Assert Exception" />
       <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
-      <item value="Destination array was not long enough. Check the destination index, length, and the array's lower bounds. (Parameter 'destinationArray')" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="120" />
       </map>
     </option>
   </component>
