@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We’ve eliminated the deadlock that affected three tasks, “Analyzing solution”, “Loading solution / Starting features...”, and “Loading analysis results”, while a solution was being loaded. We’ve fixed the performance problem that was forcing the &quot;Processing source files&quot; task to take almost an hour to complete." />
       <item value="Object reference not set to an instance of an object." />
       <item value="System.ObjectDisposedException: Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances." />
       <item value="Sequence contains no matching element" />
@@ -50,7 +51,6 @@
       <item value="Execute a mapping from the source object to the existing destination object" />
       <item value="Possible multiple enumeration" />
       <item value="Should Assert Exception" />
-      <item value="The type initializer for 'Galaxy.OS.Runtime.Session.AbpSessionExtensions' threw an exception. ---- Castle.MicroKernel.ComponentNotFoundException : No component for supporting the service Abp.Runtime.Session.IPrincipalAccessor was found" />
     </histories>
     <option name="languageScores">
       <map>
