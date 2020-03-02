@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Missing type map configuration or unsupported mapping." />
       <item value="Praise" />
       <item value="We’ve eliminated the deadlock that affected three tasks, “Analyzing solution”, “Loading solution / Starting features...”, and “Loading analysis results”, while a solution was being loaded. We’ve fixed the performance problem that was forcing the &quot;Processing source files&quot; task to take almost an hour to complete." />
       <item value="Object reference not set to an instance of an object." />
@@ -47,15 +48,14 @@
       <item value="Process" />
       <item value="Step" />
       <item value="Content of collection 'Progress' is never updated" />
-      <item value="Missing type map configuration or unsupported mapping." />
       <item value="Expression 'x =&gt; x.ApplicationForm.CreationTime' must resolve to top-level member and not any child object's properties. You can use ForPath, a custom resolver on the child type or the AfterMap option instead. (Parameter 'lambdaExpression')" />
       <item value="Execute a mapping from the source object to the existing destination object" />
       <item value="Possible multiple enumeration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="122" />
       </map>
     </option>
   </component>
