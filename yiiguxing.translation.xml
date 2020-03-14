@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Typo in identifier: &quot;Examinesses&quot;" />
       <item value="Overriding" />
       <item value=" There is no tenant with given id: 1" />
       <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
@@ -50,7 +51,6 @@
       <item value="Identifier expected" />
       <item value="Represents a time interval." />
       <item value="Process" />
-      <item value="Step" />
     </histories>
     <option name="languageScores">
       <map>
