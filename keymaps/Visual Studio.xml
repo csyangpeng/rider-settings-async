@@ -1,5 +1,0 @@
-<keymap version="1" name="Visual Studio 复制" parent="Visual Studio">
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-</keymap>
