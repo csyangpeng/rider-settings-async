@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Tool Windows" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="ToggleDistractionFreeMode" icon="/Applications/BetterTouchTool.app/Contents/Resources/283-Moon@2x.png" />
     <action id="ToggleFullScreen" icon="/Applications/BetterTouchTool.app/Contents/Resources/153-Maximize@2x.png" />
     <action id="ViewToolButtons" icon="/Applications/BetterTouchTool.app/Contents/Resources/074-Dashboard@2x.png" />

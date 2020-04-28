@@ -26,7 +26,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="showCountInConsole" value="true" />
                       <option name="showCountInStatusBar" value="true" />
@@ -53,7 +52,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-11927394" />
+                              <option name="color" value="-8958818" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -120,6 +119,8 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
