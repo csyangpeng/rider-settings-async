@@ -1,0 +1,37 @@
+<keymap version="1" name="IntelliJ (OSX) copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Diff.ShowDiff" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.Timeline.Update" />
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="SendEOF" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Execute a mapping from the source object to the existing destination object" />
+      <item value="Get" />
+      <item value="Get Async" />
+      <item value="The transaction operation cannot be performed because there are pending requests working on this transaction." />
+      <item value="延长" />
+      <item value="due" />
+      <item value="延长期限" />
+      <item value="填写后将以自主选择的形式通知给本单位领导" />
+      <item value="Time Sheet App Service" />
+      <item value="string" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+</application>
