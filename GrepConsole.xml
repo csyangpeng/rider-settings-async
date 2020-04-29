@@ -48,6 +48,8 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -119,6 +121,8 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
