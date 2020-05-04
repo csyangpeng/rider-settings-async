@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standalone" />
       <item value="Content of collection 'Files' is never updated" />
       <item value="could not proxy Galaxy.OS.Courses.CourseAppService" />
       <item value="Execute a mapping from the source object to the existing destination object" />
@@ -17,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
