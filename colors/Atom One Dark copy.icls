@@ -4,12 +4,18 @@
     <property name="created">2020-04-10T09:20:44</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-16T16:16:46</property>
+    <property name="modified">2020-05-16T13:19:45</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monaco for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
@@ -1406,6 +1412,11 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
         <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
