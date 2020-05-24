@@ -2,8 +2,10 @@
   <component name="CodeLensSettings">
     <enabled>
       <map>
+        <entry key="F# Inferred types" value="false" />
         <entry key="VcsAuthorCodeLensProvider" value="false" />
       </map>
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
